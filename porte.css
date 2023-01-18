@@ -1,0 +1,36 @@
+*  {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family	:sans-serif ;		
+       }
+    S
+    .ecran {
+    
+    width:100%;
+    height:100vh;
+    background-image:url(media/back.jpg );	
+    background-position:center;
+    background-size:cover ;
+    display :flex ;	
+    align-items:center ;
+    justify-content:center;	
+            
+    }
+    .carte {
+        width:90%;
+        max-width:440px;
+        color:aliceblue ;
+        text-align:center;
+        padding:50px 30px ;
+        border : 1px solid rgba(255,255,255,0.3);
+        
+    }
+    .catte img {
+ width :150px;
+  border-radius: 50%;
+
+
+
+
+    }
